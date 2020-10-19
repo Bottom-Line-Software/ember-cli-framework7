@@ -12,7 +12,8 @@
   },
   "repository": "https://github.com/ember-mobile/ember-cli-framework7",
   "engines": {
-    "node": ">= 0.10.0"
+    "node": ">= 0.10.0",
+    "yarn": ">= 1.0.0"
   },
   "author": "Paul Spieker",
   "license": "MIT",
@@ -26,7 +27,6 @@
     "ember-cli-ic-ajax": "0.1.1",
     "ember-cli-inject-live-reload": "^1.3.0",
     "ember-cli-qunit": "0.1.2",
-    "ember-data": "1.0.0-beta.12",
     "ember-export-application-global": "^1.0.0",
     "express": "^4.8.5",
     "glob": "4.4.0"
